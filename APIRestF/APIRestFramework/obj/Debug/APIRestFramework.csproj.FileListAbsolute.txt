@@ -1,0 +1,142 @@
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\APIRestFramework.dll.config
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\APIRestFramework.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\APIRestFramework.pdb
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\csc.exe
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\csc.exe.config
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\csc.rsp
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\csi.exe
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\csi.exe.config
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\csi.rsp
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.AppContext.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Console.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.Compression.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Claims.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.ValueTuple.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\vbc.exe
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\vbc.exe.config
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\vbc.rsp
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\Newtonsoft.Json.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\System.Net.Http.Formatting.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\System.Web.Http.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\System.Web.Http.WebHost.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\Newtonsoft.Json.xml
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\System.Net.Http.Formatting.xml
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\System.Web.Http.xml
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\System.Web.Http.WebHost.xml
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\es\System.Web.Http.resources.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.csprojAssemblyReference.cache
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.csproj.CoreCompileInputs.cache
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.csproj.CopyComplete
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.pdb
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\APIRestFramework.xml
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\Swashbuckle.Core.dll
+C:\Users\eze\source\repos\APIRestFYC\APIRestFramework\bin\WebActivatorEx.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\APIRestFramework.dll.config
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\APIRestFramework.xml
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\APIRestFramework.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\APIRestFramework.pdb
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\csc.exe
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\csc.exe.config
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\csc.rsp
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\csi.exe
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\csi.exe.config
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\csi.rsp
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.AppContext.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Collections.Immutable.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Console.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.Compression.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.FileSystem.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.IO.Pipes.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Reflection.Metadata.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.AccessControl.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Claims.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.ValueTuple.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.XPath.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\vbc.exe
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\vbc.exe.config
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\vbc.rsp
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\VBCSCompiler.exe
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\roslyn\VBCSCompiler.exe.config
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\Microsoft.Web.Infrastructure.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\Newtonsoft.Json.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\Swashbuckle.Core.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\System.Net.Http.Formatting.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\System.Web.Http.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\System.Web.Http.WebHost.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\WebActivatorEx.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\Newtonsoft.Json.xml
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\System.Net.Http.Formatting.xml
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\System.Web.Http.xml
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\System.Web.Http.WebHost.xml
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\es\System.Web.Http.resources.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.csprojAssemblyReference.cache
+D:\Progra Web III\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.csproj.CoreCompileInputs.cache
+D:\Progra Web III\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.csproj.CopyComplete
+D:\Progra Web III\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.dll
+D:\Progra Web III\APIRestFYC\APIRestFramework\obj\Debug\APIRestFramework.pdb

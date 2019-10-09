@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIRestFramework</name>
+    </assembly>
+    <members>
+        <member name="T:APIRestFramework.Controllers.PersonaController">
+            <summary>
+            Ejemplo de persona
+            </summary>
+        </member>
+        <member name="M:APIRestFramework.Controllers.PersonaController.GetPersonas">
+            <summary>
+            Mostrar lista de personas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIRestFramework.Controllers.PersonaController.GetPersona(System.Int32)">
+            <summary>
+            Buscar persona por DNI
+            </summary>
+            <param name="dni">Identificador</param>
+            <response code="200">Persona encontrada</response>
+            <response code="404">La persona no existe</response>
+            <returns>Persona en base al DNI</returns>
+        </member>
+        <member name="M:APIRestFramework.Controllers.PersonaController.PostPersona(APIRestFramework.Models.Persona)">
+            <summary>
+            Agregar persona en la lista
+            </summary>
+            <param name="p">Persona</param>
+            <returns>Persona agregada</returns>
+        </member>
+        <member name="M:APIRestFramework.Controllers.PersonaController.DeletePersona(System.Int32)">
+            <summary>
+            Eliminar persona de la lista
+            </summary>
+            <param name="dni">Identificador</param>
+            <returns>Persona eliminada de la lista</returns>
+        </member>
+        <member name="M:APIRestFramework.Controllers.PersonaController.PutPersona(APIRestFramework.Models.Persona)">
+            <summary>
+            Modificar persona en la lista
+            </summary>
+            <param name="p">Persona a modificar</param>
+            <returns></returns>
+        </member>
+        <member name="T:APIRestFramework.Services.PersonaServicio">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:APIRestFramework.Services.PersonaServicio.agregar(APIRestFramework.Models.Persona)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:APIRestFramework.Services.PersonaServicio.obtenerTodos">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIRestFramework.Services.PersonaServicio.obtenerPersona(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="dni"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIRestFramework.Services.PersonaServicio.eliminarPersona(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="dni"></param>
+        </member>
+        <member name="M:APIRestFramework.Services.PersonaServicio.modificarPersona(APIRestFramework.Models.Persona)">
+            <summary>
+            
+            </summary>
+            <param name="p"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
