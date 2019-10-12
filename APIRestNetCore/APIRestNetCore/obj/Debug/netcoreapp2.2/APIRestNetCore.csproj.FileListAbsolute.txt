@@ -1,0 +1,14 @@
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\bin\Debug\netcoreapp2.2\APIRestNetCore.deps.json
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\bin\Debug\netcoreapp2.2\APIRestNetCore.runtimeconfig.json
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\bin\Debug\netcoreapp2.2\APIRestNetCore.runtimeconfig.dev.json
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\bin\Debug\netcoreapp2.2\APIRestNetCore.dll
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\bin\Debug\netcoreapp2.2\APIRestNetCore.pdb
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.csprojAssemblyReference.cache
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.csproj.CoreCompileInputs.cache
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.RazorAssemblyInfo.cache
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.RazorAssemblyInfo.cs
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.AssemblyInfoInputs.cache
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.AssemblyInfo.cs
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.RazorTargetAssemblyInfo.cache
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.dll
+C:\Web3\apirestfyc\APIRestNetCore\APIRestNetCore\obj\Debug\netcoreapp2.2\APIRestNetCore.pdb
