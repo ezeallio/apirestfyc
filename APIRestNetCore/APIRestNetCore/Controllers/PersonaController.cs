@@ -37,7 +37,7 @@ namespace APIRestNetCore.Controllers
         [HttpPut("{id}")]
         public ActionResult Put(int id, [FromBody] Persona personaNueva)
         {
-            return PersonaServicio.modificarPersona(personaNueva) ? Ok($"Persona con DNI {personaNueva.dni} eliminada") : (ActionResult)NotFound("No existe esa persona");
+            return PersonaServicio.modificarPersona(personaNueva) ? Ok($"Persona con DNI {personaNueva.dni} modificada") : (ActionResult)NotFound("No existe esa persona");
         }
 
         // DELETE api/values/5
