@@ -20,9 +20,12 @@ namespace APIRestNetCore.Services
         /// <summary>
         /// 
         /// </summary>
-        public static void agregar(Persona p)
+        public static bool agregar(Persona p)
         {
+            if (personas.Any(pl => pl.dni == p.dni))
+                return false;
             personas.Add(p);
+            return true;
         }
 
         /// <summary>

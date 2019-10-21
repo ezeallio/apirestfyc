@@ -28,9 +28,9 @@ namespace APIRestNetCore.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] Persona persona)
+        public ActionResult Post([FromBody] Persona persona)
         {
-            PersonaServicio.agregar(persona);
+            return PersonaServicio.agregar(persona) ? (ActionResult) Ok("Persona agregada correctamente.") : BadRequest("Ya existe una persona con ese DNI");
         }
 
         // PUT api/values/5
