@@ -1,0 +1,8 @@
+Request: /api/values - Fecha: 16/oct/2019 18:52:31
+Respuesta: 404
+Request: /swagger/index.html - Fecha: 16/oct/2019 18:52:34
+Respuesta: 200
+Request: /swagger/v1/swagger.json - Fecha: 16/oct/2019 18:52:35
+Respuesta: 200
+Request: /api/Persona - Fecha: 16/oct/2019 18:52:40
+Respuesta: 200
